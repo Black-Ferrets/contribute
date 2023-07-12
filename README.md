@@ -1,2 +1,4 @@
 # contribute
-Contribution guide for Black-Ferrets
+Black-Ferrets, dedicated to Internet technology services.
+
+Please contact us if needed.
